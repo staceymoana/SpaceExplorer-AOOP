@@ -16,9 +16,9 @@ requirements include:
 
 The 'factory' I created is conceptualized in outer space, with a rocket item and asteroid items (maximum of 5) for the user to add. These
 items interact with eachother - an asteroid destorys a rocket. These two items also interact with the 'static' items in 
-outer space - a blackhole and a floating shield (only for the rocket). The blackhole teleports the rocket to
+outer space - a black hole and a floating shield (only for the rocket). The black hole teleports the rocket to
 another location on the GUI (it has special armour :smirk:), but destroys the weak asteroids. The shield protects the rocket
-against asteroids and blackholes.
+against asteroids and black holes.
 
 Rules:
 
