@@ -1,7 +1,7 @@
 # SpaceExplorer-AOOP
 Advanced Object Oriented Programming | Space Explorer
 
-![Image of Space Explorer GUI](https://github.com/staceysike/SpaceExplorer-AOOP/blob/master/spacegui.PNG)
+![Image of Space Explorer GUI](https://github.com/staceysike/images/blob/master/spacegui.PNG)
 
 The purpose of this assignment was to design and create an "item factory" GUI application, similar to a popular concept called 
 "The blue ball factory", using Java and NetBeans IDE. The factory and items can be adapted to any concept but 
