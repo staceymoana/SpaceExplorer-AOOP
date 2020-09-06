@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-13.0.2\bin\javadoc.exe" @options @packages"
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\allclasses-index.html = 1591943753484
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\allpackages-index.html = 1591943753515
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\constant-values.html = 1591943752997
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\deprecated-list.html = 1591943753352
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\element-list = 1591943752928
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\help-doc.html = 1591943753546
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\index-all.html = 1591943753468
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\index.html = 1591943753531
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\member-search-index.js = 1591943753430
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\member-search-index.zip = 1591943753452
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\options = 1591943750466
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\overview-tree.html = 1591943753329
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\package-search-index.js = 1591943753399
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\package-search-index.zip = 1591943753415
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\packages = 1591943750466
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\script.js = 1591943753568
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\search.js = 1591943753600
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\serialized-form.html = 1591943753012
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\stylesheet.css = 1591943753553
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\type-search-index.js = 1591943753430
+C:\Users\staaa\Downloads\final-template(2)\target\site\apidocs\type-search-index.zip = 1591943753430
